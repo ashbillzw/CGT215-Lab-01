@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mydata\\Repositories\\CGT215\\CGT215 Lab 1 Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{514C649C-E280-4F3C-86E0-848D93ABAE72}|CGT215 Lab 1 Project\\CGT215 Lab 1 Project.vcxproj|D:\\mydata\\Repositories\\CGT215\\CGT215 Lab 1 Project\\CGT215 Lab 1 Project\\CGT215 Lab 1 Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{514C649C-E280-4F3C-86E0-848D93ABAE72}|CGT215 Lab 1 Project\\CGT215 Lab 1 Project.vcxproj|solutionrelative:CGT215 Lab 1 Project\\CGT215 Lab 1 Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CGT215 Lab 1 Project.cpp",
+              "DocumentMoniker": "D:\\mydata\\Repositories\\CGT215\\CGT215 Lab 1 Project\\CGT215 Lab 1 Project\\CGT215 Lab 1 Project.cpp",
+              "RelativeDocumentMoniker": "CGT215 Lab 1 Project\\CGT215 Lab 1 Project.cpp",
+              "ToolTip": "D:\\mydata\\Repositories\\CGT215\\CGT215 Lab 1 Project\\CGT215 Lab 1 Project\\CGT215 Lab 1 Project.cpp",
+              "RelativeToolTip": "CGT215 Lab 1 Project\\CGT215 Lab 1 Project.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T21:54:30.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
